@@ -55,7 +55,7 @@ dstm-zcash=flags --time
 ###########################################################################
 
 loc 4975dd RIG01
-wallet 4975dd 0xe45067a3a884dcfdb5d3dd0217ebbc42ec349bc3
+wallet 4975dd 0x32fff4f1743832cb9ce432da1d1a3b35fcf6232c
 
 loc 4bdb5c RIG02
 wallet 4bdb5c 0xe45067a3a884dcfdb5d3dd0217ebbc42ec349bc3
