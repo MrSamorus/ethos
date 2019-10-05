@@ -67,7 +67,7 @@ loc 68d053 RIG06
 wallet 68d053 0x32fff4f1743832cb9ce432da1d1a3b35fcf6232c
 
 loc 68ba31 RIG07
-wallet 68ba31 0xe45067a3a884dcfdb5d3dd0217ebbc42ec349bc3
+wallet 68ba31 0xe45067a3a884dcfdb5d3dd0217ebbc42ec349bc3 
 
 loc 6a00a3 RIG08
 wallet 6a00a3 0xe45067a3a884dcfdb5d3dd0217ebbc42ec349bc3
