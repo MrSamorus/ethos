@@ -59,7 +59,7 @@ loc 5f897c RIG03
 wallet 5f897c 0x32fff4f1743832cb9ce432da1d1a3b35fcf6232c
 
 loc 68cfd0 RIG04
-wallet 68cfd0 0x32fff4f1743832cb9ce432da1d1a3b35fcf6232c
+wallet 68cfd0 0x03bbbbf29544113b0ec13dcf6b90b142e6c2b593
 
 loc 52d0f3 RIG05
 wallet 52d0f3 0x32fff4f1743832cb9ce432da1d1a3b35fcf6232c
