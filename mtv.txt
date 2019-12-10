@@ -6,7 +6,7 @@
 maxgputemp 75
 globalfan 100
 stratumproxy enabled
-autoreboot 24
+autoreboot 48
 custompanel mtv001230405
 poolemail matushkin_mtv@mail.ru
 
