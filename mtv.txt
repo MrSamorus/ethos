@@ -4,7 +4,7 @@
 ############################ GLOBAL CONFIG ################################
 ###########################################################################
 maxgputemp 75
-globalfan 100
+globalfan 75
 stratumproxy enabled
 autoreboot 48
 custompanel mtv001230405
